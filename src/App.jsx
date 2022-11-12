@@ -8,13 +8,15 @@ const App = () => (
         <Navbar />
       </div>
     </div>
-
+    
+    //For Hero div Section
     <div className={`bg-primary ${styles.flexStart}`}>
       <div className={`${styles.boxWidth}`}>
         <Hero />
       </div>
     </div>
     
+    //For Billing, Business, CardDeal, Clients, CTA, Footer, Stats, Testimonials
     <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <Stats />
