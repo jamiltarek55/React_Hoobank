@@ -16,7 +16,7 @@ const App = () => (
       </div>
     </div>
     
-    //For Billing, Business, CardDeal, Clients, CTA, Footer, Stats, Testimonials
+    //For Billing, Business, CardDeal, Clients, CTA, Footer, Stats, Testimonials Div Section
     <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <Stats />
