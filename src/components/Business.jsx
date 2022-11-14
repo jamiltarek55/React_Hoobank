@@ -41,5 +41,4 @@ const Business = () =>  (
     </div>
   </section>
 );
-
 export default Business;
