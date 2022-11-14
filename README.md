@@ -5,9 +5,9 @@
 
 ## To See Live Preview
   ### Via Github Integration
-    [Click Here](https://dynamic-zuccutto-3bec1f.netlify.app/) 👈
+  [Click Here](https://dynamic-zuccutto-3bec1f.netlify.app/) 👈
   ### Via Yarn Build
-    [Click Here](https://peppy-dieffenbachia-13e4cf.netlify.app/) 👈
+  [Click Here](https://peppy-dieffenbachia-13e4cf.netlify.app/) 👈
 
 
 ## Do you want to use or run this project locally?
