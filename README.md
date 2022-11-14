@@ -3,7 +3,7 @@
 ![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
 
 
-## To See Live Preview
+## Live Preview
   ### Via Github Integration
   [Click Here](https://dynamic-zuccutto-3bec1f.netlify.app/) 👈
   ### Via Yarn Build
