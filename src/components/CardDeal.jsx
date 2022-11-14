@@ -22,5 +22,4 @@ const CardDeal = () => (
     </div>
   </section>
 );
-
 export default CardDeal;
